@@ -1,5 +1,12 @@
 # Machine Party — Online Multiplayer Party Game
 
+<img width="1920" height="1080" alt="ss_a8589877ad7c8ceeca084c52dbc1a6276d9f169f 1920x1080" src="https://github.com/user-attachments/assets/e3e387e3-f4b1-4e14-b300-e4313ba2c620" />
+
+<img width="1920" height="1080" alt="ss_88d0b7ad71aae96fed2f4d9e74870a505142a42f 1920x1080" src="https://github.com/user-attachments/assets/40e7cca3-5944-40b8-9005-1de6947a560d" />
+
+
+<img width="1920" height="1080" alt="ss_3eb86f408f3275f7567424526b60df2e65a69ea0 1920x1080" src="https://github.com/user-attachments/assets/c738c278-4fd8-4c35-a6ca-2e67c96a261b" />
+
 **Machine Party** is a fast-paced **multiplayer party game** designed for players looking for chaotic, competitive, and entertaining gameplay. Jump into a collection of fun **party games**, challenge your friends, compete against other players, and fight to become the ultimate champion.
 
 Built around **multiplayer competition, quick matches, party-game mechanics, and replayability**, Machine Party delivers an accessible gaming experience that is easy to learn and difficult to master.
