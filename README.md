@@ -36,8 +36,6 @@ Machine Party is designed for players who enjoy **multiplayer games, party games
 
 The goal is simple: create an entertaining multiplayer environment where every match can produce unexpected situations, intense competition, hilarious moments, and memorable victories.
 
-## 🔎 Keywords
-
 **Machine Party, Machine Party game, Machine Party multiplayer, multiplayer party game, online party game, party games, multiplayer game, online multiplayer game, competitive party game, games to play with friends, multiplayer games with friends, fun multiplayer games, casual multiplayer game, competitive multiplayer game, party mini games, multiplayer mini games, PC multiplayer game, free multiplayer game, open source game, GitHub game project, indie multiplayer game, online gaming, multiplayer competition, party game community, multiplayer gaming project.**
 
 ## 💻 Open Source
